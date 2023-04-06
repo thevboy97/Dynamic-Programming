@@ -1,5 +1,3 @@
-# ECE276B SP21 HW1 Programming Assignment
-
 ## Overview
 Implemented dynamic programming using Label Correcting (LC) for autonomous navigation in a door and key environment for a static target. Executed and evaluated the performance of the algorithms on various known and unknown maps with random target spawns and multiple doors/keys.
 
